@@ -17,7 +17,7 @@ We are committed to protecting your privacy and handling your data in accordance
 
 ResellerTrack is operated as a sole trader business based in the United Kingdom.
 
-**Contact:** [your email address]
+**Contact:** jamescall10@gmail.com
 **Website:** https://reseller-track.vercel.app
 
 ---
@@ -152,7 +152,7 @@ We may update this Privacy Policy from time to time. We will notify you of signi
 
 For any privacy-related questions, requests, or concerns:
 
-**Email:** [your email address]
+**Email:** jamescall10@gmail.com
 **Website:** https://reseller-track.vercel.app
 
 ---
